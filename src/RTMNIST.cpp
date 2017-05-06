@@ -18,7 +18,6 @@ using namespace cv;
 Rect reshapeRect(Mat,Rect);
 
 
-
 int main() {
 
 	Mat rgb,hsv,hsvm,frame,threshOut;
